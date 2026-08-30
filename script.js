@@ -454,7 +454,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         if (
           SITE_CONFIG.whatsappNumber ===
-          "254700000000"
+          "254792888171"
         ) {
 
           alert(
@@ -510,7 +510,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
           alert(
-            "Please replace Minalicekenya@gmail.com in contact.html with the real business email before publishing."
+            "minalicekenya@gmail.com"
           );
 
         }

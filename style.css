@@ -1451,7 +1451,6 @@ code{
    ========================================= */
 
 @media(max-width:600px){
-
   .container{
     width:min(calc(100% - 28px),var(--container));
   }
